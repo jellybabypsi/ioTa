@@ -10,11 +10,28 @@ Press: ALT+F4
 <off> 
 mute
 <off>
-<-3.2>  
+<-3>  
 git clone https://github.com/sophos/SOREL-20M
 <off>
 scrub -p dod /dev/sdb
->file<off>
+>file
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
+git clone https://github.com/Penetrum-Security/Threat-Intelligence
+<off>
 git clone https://github.com/Penetrum-Security/Threat-Intelligence
 >file
 dd if=/dev/zero of=/dev/hdX  bs=512  count=1
